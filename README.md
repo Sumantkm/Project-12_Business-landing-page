@@ -12,7 +12,7 @@
 ## Time taken: 
 - Don't want to fake it, Actually took 6 hours to build this project. 
 ***
-## Project screenshots :
+## Project screenshots(few) :
 ![Project-12/Business landing page](./Projects-SS/SS-hero.PNG)
 ![Project-12/Business landing page](./Projects-SS/SS-buiness.PNG)
 ![Project-12/Business landing page](./Projects-SS/SS-content.PNG)
