@@ -1,4 +1,4 @@
-# Business Landing page
+# Business Landing page - [LINK](https://business-12-landing-page.netlify.app/)
 ![Ineuron & LCO](https://img.shields.io/badge/Ineuron-LCO-brightgreen) 
 ![Ineuron & LCO](https://img.shields.io/badge/Hitesh%20Choudhary-Full--stack--JS--bootcamp-brightgreen)
 <br>
