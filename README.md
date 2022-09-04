@@ -10,7 +10,7 @@
 - Also learnt a bit about @Media Query.
 ***
 ## Time taken: 
-- Don't want to fake it, Actually took 6 hours to build this project. 
+- Don't want to fake it, Actually took 8+ hours to build this project. 
 ***
 ## Project screenshots(few) :
 ![Project-12/Business landing page](./Projects-SS/SS-hero.PNG)
